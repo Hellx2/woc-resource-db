@@ -1,0 +1,53 @@
+# Orcdev
+
+The following are a set of resources from orcdev (note: many may be differently named than they are here).
+
+Uncategorized:
+- [10 Tailwind tips I wish I knew earlier](https://www.youtube.com/watch?v=F9BmpJo5ecQ)
+- [5 Steps to Become a Web Developer](https://www.youtube.com/watch?v=qATP228-SEU)
+- [Best way to change URL search params in Next.JS](https://www.youtube.com/watch?v=i_7iSr5hFE8)
+- [Building a Meal Planner AI with Next.JS & OpenAI](https://www.youtube.com/watch?v=BfQZ-nTcCKc)
+- [Cool looking parallax grid scroll with animations](https://www.youtube.com/watch?v=CCO3iokJ_Z4)
+- [Create your own SAAS product with Orcish AI Next.JS framework](https://www.youtube.com/watch?v=Jrn1rzuaDI0)
+- [Detailed PR analysis using cutting-edge AI technology](https://www.youtube.com/watch?v=4v_gFMPwwWE)
+- [Email sending in Next.JS in 5 minutes](https://www.youtube.com/watch?v=uRsruJbSfKc)
+- [Fastest way to implement a styled 404 page in Next.JS](https://www.youtube.com/watch?v=EEduPZpG9tI)
+- [Fastest way to build admin area in Nuxt](https://www.youtube.com/watch?v=YErzRvxpwrg)
+- [Master JavaScript array methods with real code examples](https://www.youtube.com/watch?v=SLHCQYxXgxU)
+- [Next.JS forms with Shadcn are SO easy](https://www.youtube.com/watch?v=lJpTwfDq0ck)
+- [React Christmas coloring book app](https://www.youtube.com/watch?v=zOEORLsE528)
+- [Simplest way to build a contact form](https://www.youtube.com/watch?v=OFBVmAVqr5I)
+- [Simplest way to build a Data Table](https://www.youtube.com/watch?v=_f7JovPT9kk)
+- [Simplest way to build a portfolio](https://www.youtube.com/watch?v=M77XZ12NHuw)
+- [Simplest way to build an admin area](https://www.youtube.com/watch?v=B81UvJlcTYU)
+- [Simplest way to fetch data in Next.JS 14](https://www.youtube.com/watch?v=J5nCJelTkp4)
+- [Stop making this mistake in Next.JS](https://www.youtube.com/watch?v=S1PQt7yjs_g)
+- [Text Adventure Game with Next.JS](https://www.youtube.com/watch?v=RepFmB8vwdY)
+- [Top 5 Shadcn UI components you should be using in 2024](https://www.youtube.com/watch?v=aghzSfjqNNc)
+- [Upcoming Shadcn components are amazing](https://www.youtube.com/watch?v=nYKPoyGxSGs)
+- [Using DALL-E-3 to get AI images in Next.JS](https://www.youtube.com/watch?v=kEKY2EzmGBQ)
+- [VSCode Extensions for TS/React devs](https://www.youtube.com/watch?v=s6X5iJUj4SM)
+- [Zustand state management in 5 minutes](https://www.youtube.com/watch?v=afBSVdmeA4A)
+
+Tutorials/guides:
+- [Building a Snake game in Next.JS: step-by-step](https://www.youtube.com/watch?v=6cVRNXq9QTQ)
+- [Guide to building a newsletter in Next.JS](https://www.youtube.com/watch?v=FCDk5X7wFWQ)
+- [Guide to data loading in Next.JS with Tailwind](https://www.youtube.com/watch?v=pyrxBSEofh0)
+- [How to build a reusable sidebar](https://www.youtube.com/watch?v=qz4SVagPStg)
+- [How to create a fullstack registration page](https://www.youtube.com/watch?v=hFULG1Dx8wo)
+- [How to create a passcode component in Next.JS](https://www.youtube.com/watch?v=7AkhzmH0Qgg)
+- [How to get all the keys in a JavaScript object](https://www.youtube.com/watch?v=3v4mfE8xlDE)
+- [How to implement a token system in Next.JS](https://www.youtube.com/watch?v=iXHt75gaMgk)
+- [How to implement Markdown in 5 minutes](https://www.youtube.com/watch?v=k7VTCtv1Q08)
+- [How to implement Storybook 8.0 in Next.JS](https://www.youtube.com/watch?v=mPZQHXE5qKc)
+- [How to make 8-bit retro pixel portfolio](https://www.youtube.com/watch?v=pUy9rQdKV44)
+- [How to make a customizable carousel](https://www.youtube.com/watch?v=xGKEteCPdoE)
+- [How to make a fullstack modern admin panel in Next.JS](https://www.youtube.com/watch?v=W-Bd7nzzz3o)
+- [How to push code error-free to your repo](https://www.youtube.com/watch?v=5VlMJj3Ncg8)
+- [Next.JS authentication without a database](https://www.youtube.com/watch?v=sB6SKqHjZlg)
+- [Next.JS fullstack pagination tutorial](https://www.youtube.com/watch?v=-ajgYf9N68M)
+- [Ultimate Guide to Shadcn Colors and Themes](https://www.youtube.com/watch?v=3wU0nw6EV0w)
+
+Challenges:
+- [Beginners Challenge - Pixel Art Maker](https://www.youtube.com/watch?v=HN7FhKPTohA)
+- [Themed Clock 5 minute speed coding challenge](https://www.youtube.com/watch?v=SKPUskbOWGE)
