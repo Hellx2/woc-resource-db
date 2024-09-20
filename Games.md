@@ -40,6 +40,7 @@ TUI/Text-based:
 Discord Bot:
 - [Crystalmine](https://github.com/POG9000/Crystalmine) - Collect gems and crystals and trade them with your friends!
 - [Tarnished Souls](https://github.com/JanikCodes/tarnished_souls) - RPG Multiplayer Python Discord Bot inspired by Elden Ring.
+- [Topaz RPG](https://topazrpg.xyz/) - a thrilling RPG simulation game that will take you on an exciting journey through the topaz realms.
 
 Game Engine/Library:
 - [Ayarei Engine](https://github.com/dttric/ayarei_engine) - Ray casting engine written in Python
