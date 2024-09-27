@@ -21,6 +21,7 @@ GUI:
 - [Epik Waifu Downloader](https://github.com/Wind-Explorer/epik-waifu-downloader) - The most epik waifu downloader app in existence
 - [Exercice Maker](https://github.com/Ikytsu/Exercice-Maker) - An exercise maker GUI written in Python 
 - [GPause 2](https://github.com/wind-explorer/gpause-2) - Control apps' awakeness
+- [IrisChat](https://github.com/umutcamliyurt/IrisChat) - An IRC client for Android
 - [NetFetch](https://github.com/yorokeu/NetFetch) - Download manager
 - [SafeArchive](https://github.com/KafetzisThomas/SafeArchive) - Securely backup and manage your files locally and in the cloud
 - [Simple TCP Chatroom GUI](https://github.com/Ikytsu/Simple-TCP-ChatRoomGui) - GUI version of [https://www.youtube.com/watch?v=3UOyky9sEQY](https://www.youtube.com/watch?v=3UOyky9sEQY)
@@ -48,6 +49,7 @@ CLI:
 - [PassBreaker](https://github.com/HalilDeniz/PassBreaker) - a command-line password cracking tool developed in Python
 - [ProfanityGuard](https://github.com/AleksaMilosevic07/ProfanityGuard) - A simple filter for bad words written in C++
 - [protondb-check](https://github.com/gpskwlkr/protondb-check) - CLI tool for checking ProtonDB compatibility of your Steam games
+- [Rainy Day Cash App](https://github.com/daniilnahl/Rainy-Day-Cash-App) - An app that lets you track how much money you have saved for a "rainy day"
 - [Rstreamdeck](https://github.com/dragonblade316/Rstreamdeck) - A customizable streamdeck controller made in rust
 - [Snowstorm](https://github.com/kittech0/snowstorm) - Creates snow storm in your command line
 - [term-clock](https://github.com/Oliver12418/term-clock) - A clock for your terminal
@@ -112,6 +114,7 @@ Languages:
 - [Minishell](https://github.com/ERROR244/minishell.git) - minimal shell
 - [soggycat](https://github.com/warranty99/soggycat) - a language made for fun as a learning opportunity
 - [terminal](https://github.com/RealViper8/terminal) - An advanced cross-platform shell with Forth interpreter
+- [zaslang](https://github.com/rudy-in/zaslang) - A general purpose programming language
 
 Editor Extensions:
 - [Code to MD](https://github.com/dlchamp/Code-to-MD/) - VSC Extension that will copy selected code into Discord or Reddit markdown ready formats
