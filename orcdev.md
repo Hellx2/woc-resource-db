@@ -20,6 +20,7 @@ Uncategorized:
 - [Simplest way to build a Data Table](https://www.youtube.com/watch?v=_f7JovPT9kk)
 - [Simplest way to build a portfolio](https://www.youtube.com/watch?v=M77XZ12NHuw)
 - [Simplest way to build an admin area](https://www.youtube.com/watch?v=B81UvJlcTYU)
+- [Simplest way to build an admin area in Svelte](https://www.youtube.com/watch?v=3oppxv9gH7g)
 - [Simplest way to fetch data in Next.JS 14](https://www.youtube.com/watch?v=J5nCJelTkp4)
 - [Stop making this mistake in Next.JS](https://www.youtube.com/watch?v=S1PQt7yjs_g)
 - [Text Adventure Game with Next.JS](https://www.youtube.com/watch?v=RepFmB8vwdY)
